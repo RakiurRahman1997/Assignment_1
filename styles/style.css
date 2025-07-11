@@ -144,3 +144,49 @@
     opacity: 50%;
     font-size: 18px;
 }
+
+/* focus styles */
+
+.focus{
+    background-color: rgb(255, 245, 245);
+    max-width: 1140px;
+    height: 700px;
+    margin: 100px auto;
+}
+
+.conf22{
+    background-color: #4E47FF;
+    border: none;
+    color: white;
+    padding: 14px 30px;
+    text-align: center;
+    text-decoration: none;
+    /* display: inline-block; */
+    font-size: 12px;
+    border-radius: 7px;
+    font-weight: bold;
+}
+
+.ready{
+    text-align: center;
+    padding-top: 50px;
+}
+
+.flow-image{
+    background-image: url('../Assets/wc-big.png');
+    height: 365px;
+    max-width: 840px;
+    background-size: cover;
+    padding-top: 50px;
+    border-radius: 30px;
+    margin: 40px auto;
+}
+
+.start{
+    color: #000000;
+    opacity: 50%;
+}
+
+.better{
+    color: #000000;
+}
