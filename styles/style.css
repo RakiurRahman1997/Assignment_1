@@ -83,7 +83,7 @@
 
 .conf{
     margin: 150px auto;
-    height: 400px;
+    height: 300px;
     max-width: 1140px;
     display: flex;
     justify-content: space-between;
@@ -105,4 +105,42 @@
 .explore{
     color: #252432;
     opacity: 50%;
+}
+
+/* users styles */
+
+.productive{
+    background-color: #e2e1ff;
+    height: 350px;
+    max-width: 1140px;
+    border-radius: 20px;
+    margin: 0 auto;
+}
+
+.users{
+    text-align: center;
+    padding-top: 50px;
+}
+
+.all{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.joined{
+    color: #252432;
+    font-size: 24px;
+}
+
+.k, .m, .ni{
+    color: #4E47FF;
+    font-size: 50px;
+}
+
+.ac, .sess, .ra{
+    color: #000000;
+    opacity: 50%;
+    font-size: 18px;
 }
