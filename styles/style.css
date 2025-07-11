@@ -1,4 +1,5 @@
 
+
 /* Google Fonts */
 
 .inter{
@@ -12,6 +13,8 @@
   font-optical-sizing: auto;
   font-style: normal;
 }
+
+
 
 /* header styles */
 
@@ -189,4 +192,49 @@
 
 .better{
     color: #000000;
+}
+
+/* touch styles */
+
+.touch{
+    /* background-color: #000000; */
+    /* opacity: 5%; */
+    margin: 50px auto;
+    max-width: 1140px;
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.touch-flex_1{
+    text-align: left;
+    padding-top: 60px;
+    font-size: 40px;
+}
+
+.touch-flex_2{
+    margin: 0;
+    padding: 0;
+    width: 200px;
+}
+
+#email, #name, #textarea{
+    padding: 10px 20px;
+}
+
+.ra-1, .ra-2, .ra-3{
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.btn-2{
+    background-color: #4E47FF;
+    border: none;
+    color: white;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 14px;
+    border-radius: 5px;
+    width: 270px;
 }
