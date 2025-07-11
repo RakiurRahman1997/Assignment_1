@@ -238,3 +238,37 @@
     border-radius: 5px;
     width: 270px;
 }
+
+/* footer styles*/
+
+.footer{
+    margin: 50px auto;
+    max-width: 1140px;
+    height: 250px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.ftr-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.ftr-2 a{
+    color: #8987A1;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+.logo-text{
+    color: #4E47FF;
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+.p-text{
+    color: #8987A1;
+    font-size: 13px;
+}
